@@ -29,12 +29,11 @@ percentage(10,100)
 console.log(percentage());
 
 var user = [
-     first_name= "HTML",
+     first_name= "HTML",statu
      last_name= "CSS",
      age= 32,
      website= "java2s.com"
-
-  first1_name= "HTML",
+	first1_name= "HTML",
      last1_name= "CSS",
      age1= 32,
      website1= "java2s.com"
@@ -47,3 +46,4 @@ var user = [
 for (var i = 0; i <user.length; i++) {
 	console.log (user[i]);
 }
+//farid arezki
